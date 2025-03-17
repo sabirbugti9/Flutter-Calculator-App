@@ -1,0 +1,11 @@
+# Ignore generated platform files from GitHub language statistics
+linux/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+ios/** linguist-vendored
+web/** linguist-vendored
+*.cmake linguist-vendored
+*.h linguist-vendored
+*.cc linguist-vendored
+*.cpp linguist-vendored
+*.swift linguist-vendored
